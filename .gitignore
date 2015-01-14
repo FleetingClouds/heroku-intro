@@ -1,6 +1,8 @@
 # Logs
 logs
 *.log
+*~
+xfer
 
 # Runtime data
 pids
