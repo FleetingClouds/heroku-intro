@@ -1,0 +1,5 @@
+TIMES=2
+XXCREDS={"iridblu":{"packageName":"iridblu","clientId":"833369034468-ct9m27821oikrc8la7o7qot8btu1nqu9.apps.googleusercontent.com","clientSecret":"c-vaPAlOJdUEHBLhMdE73wgx","scopes":["https://www.googleapis.com/auth/datastore","https://www.googleapis.com/auth/userinfo.email"],"service":"google","access":{"accessToken":"ya29._ACXBiY7KhhYYDi7v2bczhzL1FHE8e1V4ydZRCTQVVkztsCGZSq8uzYmuyeikOKrbF7c1-3isW-kYw","refreshToken":"1/G032tJDIkeVnS27rVzFjJGHHq40qOtlBd2gVPUxycbsMEudVrK5jSpoR30zcRFq6","expires":1421323557056}}}
+CREDS={"packageName":"iridblu","clientId":"833369034468-ct9m27821oikrc8la7o7qot8btu1nqu9.apps.googleusercontent.com","clientSecret":"c-vaPAlOJdUEHBLhMdE73wgx","scopes":["https://www.googleapis.com/auth/datastore","https://www.googleapis.com/auth/userinfo.email"],"service":"google","access":{"accessToken":"ya29._ACXBiY7KhhYYDi7v2bczhzL1FHE8e1V4ydZRCTQVVkztsCGZSq8uzYmuyeikOKrbF7c1-3isW-kYw","refreshToken":"1/G032tJDIkeVnS27rVzFjJGHHq40qOtlBd2gVPUxycbsMEudVrK5jSpoR30zcRFq6","expires":1421323557056}}
+
+WEB=supervisor app.js
